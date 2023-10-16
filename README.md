@@ -1,3 +1,3 @@
 # Hola, Mundo
 
-## Primer programa típico en Python.
+## Primer programa **típico** en Python.
